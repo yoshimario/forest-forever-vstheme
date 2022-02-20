@@ -1,0 +1,21 @@
+{
+    "name": "forest-forever",
+    "displayName": "forest_forever",
+    "description": "A walk thru the forest together thru coding.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Forest Forever",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Forest Forever-color-theme.json"
+            }
+        ]
+    }
+}
