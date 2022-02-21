@@ -12,8 +12,14 @@
 		"activityBar.border": "#ffacac",
 		"activityBar.activeBackground": "#382e24",
 
-
-		"sideBarTitle.foreground": "#1F5228"
+		"sideBar.background": "#020a05e9",
+		"sideBar.foreground": "#731c1c",
+		"sideBarSectionHeader.background": "#db4a0368",
+		"sideBarSectionHeader.foreground": "#d9ce26",
+		"sideBarSectionHeader.border": "#757474b1",
+		"sideBarTitle.foreground": "#8b9f2b",
+		"sideBar.border": "#274b2b",
+		
 	},
 	"tokenColors": [
 		{
