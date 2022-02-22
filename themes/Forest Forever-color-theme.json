@@ -70,6 +70,13 @@
 		"menu.separatorBackground": "#581c1c",
 		"menu.border": "#5a2a2a85",
 
+		"button.background": "#073227",
+		"button.foreground": "#f04008ed",
+		"button.hoverBackground": "#9bc452",
+		"textLink.foreground": "#ad7f25",
+		"button.secondaryForeground": "#1cec16",
+		"button.secondaryBackground": "#540c23",
+		"button.secondaryHoverBackground": "#c71324",
 
 	},
 	"tokenColors": [
