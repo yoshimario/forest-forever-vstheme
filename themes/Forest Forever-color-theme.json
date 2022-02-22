@@ -19,7 +19,26 @@
 		"sideBarSectionHeader.border": "#757474b1",
 		"sideBarTitle.foreground": "#8b9f2b",
 		"sideBar.border": "#274b2b",
-		
+
+		"list.inactiveSelectionBackground": "#5c0505",
+		"list.inactiveSelectionForeground": "#b28282",
+		"list.hoverBackground": "#b28282",
+		"list.hoverForeground": "#1f1313",
+		"list.activeSelectionBackground": "#09714a",
+		"list.inactiveSelectionBackground": "#5c0505",
+		"list.inactiveSelectionForeground": "#b28282",
+		"list.hoverBackground": "#032120",
+		"list.hoverForeground": "#1f1313",
+		"list.activeSelectionForeground": "#ffe300",
+		"list.inactiveFocusBackground": "#09714a",
+		"tree.indentGuidesStroke": "#03d385",
+		"list.dropBackground": "#003428",
+		"list.highlightForeground": "#f91212",
+		"list.focusBackground": "#381300",
+		"list.focusForeground": "#41ff1a",
+		"listFilterWidget.background": "#e9f000",
+		"listFilterWidget.outline": "#01ad4ce1",
+		"listFilterWidget.noMatchesOutline": "#ff1700",
 	},
 	"tokenColors": [
 		{
