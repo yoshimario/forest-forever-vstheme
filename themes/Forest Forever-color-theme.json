@@ -78,6 +78,15 @@
 		"button.secondaryBackground": "#540c23",
 		"button.secondaryHoverBackground": "#c71324",
 
+		"input.background": "#3f0b0b",
+		"input.border": "#411f2fbd",
+		"input.foreground": "#9ce85d",
+		"input.placeholderForeground": "#d6ff43",
+		"inputOption.activeBackground": "#ff040466",
+		"inputOption.activeBorder": "#a176767e",
+		"inputOption.activeForeground": "#6bff4d",
+
+		
 	},
 	"tokenColors": [
 		{
