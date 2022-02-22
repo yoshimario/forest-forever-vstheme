@@ -54,7 +54,21 @@
 		"statusBarItem.remoteBackground": "#064932",
 		"statusBarItem.remoteForeground": "#db1111",
 
-		
+		"titleBar.activeBackground": "#00210d",
+		"titleBar.activeForeground": "#f97500",
+		"titleBar.border": "#133b17d9",
+		"titleBar.inactiveBackground": "#00210d7c",
+		"titleBar.inactiveForeground": "#f97500b9",
+		"menubar.selectionForeground": "#ff0b0b",
+		"menubar.selectionBackground": "#9f9d7e3a",
+		"menubar.selectionBorder": "#9f4848",
+		"menu.foreground": "#baaf0b",
+		"menu.background": "#010f04",
+		"menu.selectionForeground": "#f51a1a",
+		"menu.selectionBackground": "#0f301d",
+		"menu.selectionBorder": "#7b672846",
+		"menu.separatorBackground": "#581c1c",
+		"menu.border": "#5a2a2a85",
 	},
 	"tokenColors": [
 		{
