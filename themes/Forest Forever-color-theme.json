@@ -11,8 +11,8 @@
 		"editor.background": "#051F20",
 		"editor.foreground": "#E08B55",
 
-		"activityBar.background": "#5aa98f",
-		"activityBar.foreground": "#020d06e9",
+		"activityBar.foreground": "#5aa98f",
+		"activityBar.background": "#020d06e9",
 		"activityBar.inactiveForeground": "#89ffe446",
 		"activityBarBadge.foreground": "#734f16ed",
 		"activityBarBadge.background": "#bbcbcf",
@@ -69,6 +69,8 @@
 		"menu.selectionBorder": "#7b672846",
 		"menu.separatorBackground": "#581c1c",
 		"menu.border": "#5a2a2a85",
+
+
 	},
 	"tokenColors": [
 		{
