@@ -2,6 +2,12 @@
 	"name": "Forest Forever",
 	"type": "dark",
 	"colors": {
+		"foreground": "#0fe66d",
+		"focusBorder": "#82440e",
+		"progressBar.background": "#21b431",
+		"selection.background": "#012a13",
+		"scrollbar.shadow": "#665037",
+
 		"editor.background": "#051F20",
 		"editor.foreground": "#E08B55",
 
