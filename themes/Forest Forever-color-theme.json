@@ -90,12 +90,34 @@
 		"panel.border": "#24a50059",
 		"panelTitle.activeBorder": "#b61515",
 		"panelTitle.activeForeground": "#f00505",
+		"panelTitle.inactiveForeground": "#ff8282a1",
 		"terminal.selectionBackground": "#70800040",
 		"terminalCursor.foreground": "#430606",
 		"terminalCursor.background": "#3cb04e",
 		"badge.background": "#991515",
 		"badge.foreground": "#eeff79",
 		"terminal.border": "#f2000059",
+
+		"terminal.foreground": "#fb0606",
+		"terminal.ansiWhite": "#e0dedd",
+		"terminal.ansiBrightWhite": "#fffdfd",
+		"terminal.ansiBlack": "#847070",
+		"terminal.ansiBrightBlack": "#b89b9b",
+		"terminal.ansiBlue": "#2472c8",
+		"terminal.ansiBrightBlue": "#3b8eea",
+		"terminal.ansiCyan": "#11a8cd",
+		"terminal.ansiBrightCyan": "#29b8db",
+		"terminal.ansiGreen": "#0dbc5a",
+		"terminal.ansiBrightGreen": "#12f275",
+		"terminal.ansiMagenta": "#ab18ab",
+		"terminal.ansiBrightMagenta": "#fd1ffd",
+		"terminal.ansiRed": "#cd3131",
+		"terminal.ansiBrightRed": "#f14c4c",
+		"terminal.ansiYellow": "#c3c912",
+		"terminal.ansiBrightYellow": "#dde415",
+
+
+
 	},
 	"tokenColors": [
 		{
