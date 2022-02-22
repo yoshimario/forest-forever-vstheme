@@ -39,6 +39,21 @@
 		"listFilterWidget.background": "#e9f000",
 		"listFilterWidget.outline": "#01ad4ce1",
 		"listFilterWidget.noMatchesOutline": "#ff1700",
+
+		"statusBar.foreground": "#e06b3f",
+		"statusBar.background": "#041f1a",
+		"statusBarItem.hoverBackground": "#397528",
+		"statusBar.border": "#b25b5b",
+		"statusBar.debuggingBackground": "#110c0a",
+		"statusBar.debuggingForeground": "#ec0000",
+		"statusBar.debuggingBorder": "#00298c",
+		"statusBar.noFolderBackground": "#640000",
+		"statusBar.noFolderForeground": "#7fc251",
+		"statusBar.noFolderBorder": "#208411",
+		"statusBarItem.remoteBackground": "#064932",
+		"statusBarItem.remoteForeground": "#db1111",
+
+		
 	},
 	"tokenColors": [
 		{
