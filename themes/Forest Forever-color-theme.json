@@ -147,7 +147,16 @@
 		"debugToolBar.background": "#061102",
 		"debugToolBar.border": "#866a6a",
 
-		
+		"notifications.foreground": "#229b09",
+		"notifications.background": "#00190c",
+		"notificationToast.border": "#5a501b",
+		"notificationsErrorIcon.foreground": "#ff2b00",
+		"notificationsWarningIcon.foreground": "#ffd100",
+		"notificationsInfoIcon.foreground": "#00ff93",
+		"notificationCenterHeader.foreground": "#e87713",
+		"notificationCenterHeader.background": "#062a02",
+		"notifications.border": "#543e22",
+		"notificationCenter.border": "#543e22",
 
 	},
 	"tokenColors": [
