@@ -158,6 +158,15 @@
 		"notifications.border": "#543e22",
 		"notificationCenter.border": "#543e22",
 
+		"gitDecoration.addedResourceForeground": "#01d528",
+		"gitDecoration.conflictingResourceForeground": "#bca10c",
+		"gitDecoration.deletedResourceForeground": "#ff3c1a",
+		"gitDecoration.ignoredResourceForeground": "#d3c3c3",
+		"gitDecoration.modifiedResourceForeground": "#e2c08d",
+		"gitDecoration.stageDeletedResourceForeground": "#943525",
+		"gitDecoration.stageModifiedResourceForeground": "#b88a45",
+		"gitDecoration.submoduleResourceForeground": "#ff7d1e",
+		"gitDecoration.untrackedResourceForeground": "#a6ffc5"
 	},
 	"tokenColors": [
 		{
