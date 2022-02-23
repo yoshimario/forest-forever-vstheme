@@ -129,7 +129,16 @@
 		"tab.hoverForeground": "#e64e4e",
 		"tab.hoverBorder": "#288606",
 
-		
+		"breadcrumb.background": "#1d0000",
+		"breadcrumb.foreground": "#73ff13cc",
+		"breadcrumb.focusForeground": "#ec3700",
+		"editorGroupHeader.border": "#08f70046",
+
+		"scrollbarSlider.background": "#ff404066",
+		"scrollbarSlider.hoverBackground": "#96040bb3",
+		"scrollbarSlider.activeBackground": "#07580c60",
+
+
 	},
 	"tokenColors": [
 		{
