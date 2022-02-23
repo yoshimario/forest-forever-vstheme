@@ -138,6 +138,16 @@
 		"scrollbarSlider.hoverBackground": "#96040bb3",
 		"scrollbarSlider.activeBackground": "#07580c60",
 
+		"widget.shadow": "#491d1d5c",
+		"editorWidget.foreground": "#bab700",
+		"editorWidget.background": "#000a07",
+		"pickerGroup.border": "#47410d",
+		"pickerGroup.foreground": "#88855a",
+		"editorWidget.resizeBorder": "#342525",
+		"debugToolBar.background": "#061102",
+		"debugToolBar.border": "#866a6a",
+
+		
 
 	},
 	"tokenColors": [
