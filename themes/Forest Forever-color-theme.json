@@ -116,8 +116,20 @@
 		"terminal.ansiYellow": "#c3c912",
 		"terminal.ansiBrightYellow": "#dde415",
 
+		"editorGroupHeader.tabsBackground": "#000f0e",
+		"editorGroupHeader.tabsBorder": "#15373f",
+		"tab.activeForeground": "#ffec55",
+		"tab.border": "#095402",
+		"tab.activeBackground": "#620000",
+		"tab.activeBorder": "#b6363654",
+		"tab.activeBorderTop": "#e8070781",
+		"tab.inactiveBackground": "#7d3232",
+		"tab.inactiveForeground": "#ffd70080",
+		"tab.hoverBackground": "#175141",
+		"tab.hoverForeground": "#e64e4e",
+		"tab.hoverBorder": "#288606",
 
-
+		
 	},
 	"tokenColors": [
 		{
