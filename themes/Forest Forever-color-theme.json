@@ -59,6 +59,17 @@
 		"editorCodeLens.foreground": "#f72424",
 		"editorGroup.border": "#f02424",
 
+		"diffEditor.insertedTextBackground": "#0d81ba33",
+		"diffEditor.insertedTextBorder": "#3b756434",
+		"diffEditor.removedTextBackground": "#c7582d33",
+		"diffEditor.removedTextBorder": "#382323b3",
+		"diffEditor.border": "#ba823b",
+
+		"editorMarkerNavigation.background": "#051506",
+		"editorMarkerNavigationError.background": "#924e40cd",
+		"editorMarkerNavigationWarning.background": "#cca700",
+		"editorMarkerNavigationInfo.background": "#2f4a62",
+
 		"editor.foreground": "#E08B55",
 
 		"activityBar.foreground": "#5aa98f",
