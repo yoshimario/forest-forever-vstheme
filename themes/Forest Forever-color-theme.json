@@ -83,6 +83,25 @@
 		"editorSuggestWidget.highlightForeground": "#c49c22",
 		"editorSuggestWidget.selectedBackground": "#3d3024",
 
+		"editorHoverWidget.foreground": "#41b01a",
+		"editorHoverWidget.background": "#041505",
+		"editorHoverWidget.border": "#9aa4b41e",
+
+		"peekView.border": "#0a431d",
+		"peekViewEditor.background": "#080101",
+		"peekViewEditorGutter.background": "#002119",
+		"peekViewEditor.matchHighlightBackground": "#7b572899",
+		"peekViewEditor.matchHighlightBorder": "#a3691f",
+		"peekViewResult.background": "#02130c",
+		"peekViewResult.fileForeground": "#880d0d",
+		"peekViewResult.lineForeground": "#eaa80d",
+		"peekViewResult.matchHighlightBackground": "#a5480c4d",
+		"peekViewResult.selectionBackground": "#238e8933",
+		"peekViewResult.selectionForeground": "#09cd28",
+		"peekViewTitle.background": "#260d0d",
+		"peekViewTitleDescription.foreground": "#ffa313b3",
+		"peekViewTitleLabel.foreground": "#d10404",
+
 		"editor.foreground": "#E08B55",
 
 		"activityBar.foreground": "#5aa98f",
