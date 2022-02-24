@@ -70,6 +70,19 @@
 		"editorMarkerNavigationWarning.background": "#cca700",
 		"editorMarkerNavigationInfo.background": "#2f4a62",
 
+		"merge.currentHeaderBackground": "#004536",
+		"merge.currentContentBackground": "#2f4541",
+		"merge.incomingHeaderBackground": "#174b12f1",
+		"merge.incomingContentBackground": "#408f39",
+		"merge.commonHeaderBackground": "#840c0c",
+		"merge.commonContentBackground": "#3f1a1a",
+
+		"editorSuggestWidget.background": "#260000",
+		"editorSuggestWidget.border": "#430000",
+		"editorSuggestWidget.foreground": "#109b32",
+		"editorSuggestWidget.highlightForeground": "#c49c22",
+		"editorSuggestWidget.selectedBackground": "#3d3024",
+
 		"editor.foreground": "#E08B55",
 
 		"activityBar.foreground": "#5aa98f",
