@@ -1,18 +1,18 @@
 # Forest Forever Dark Theme (VS Code)
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/)](https://aka.ms/)
-[![Downloads](https://img.shields.io/vscode-marketplace/)](https://aka.ms/)
+[![Version](https://vsmarketplacebadge.apphb.com/version/SeanKipina.forest-forever.svg/)](https://vsmarketplacebadge.apphb.com/version/SeanKipina.forest-forever.svg)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/SeanKipina.forest-forever?style=for-the-badge)](https://img.shields.io/visual-studio-marketplace/d/SeanKipina.forest-forever?style=for-the-badge)
 
 
 This is a theme for all of you nature lovers. This theme is inspired around the nature that surrounds us. From the various colors of the sky to the ground and the Earth all around us. Enjoy this dark inspired theme for your coding inspirations. Allow nature to inspire you and your code and take care of whatever project enlightens you.
 
 ## Forest Forever
 Welcome Screen!
-![Welcome Screen](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_Welcome.png)
+![Welcome Screen](/forest_forever_Welcome.png)
 CSS Look!
-![Forest Forever CSS](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_CSS.png)
+![Forest Forever CSS](/forest_forever_CSS.png)
 JS Look!
-![Forest Forever JS](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_JS.png)
+![Forest Forever JS](/forest_forever_JS.png)
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
