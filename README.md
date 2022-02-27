@@ -1,13 +1,30 @@
-# README
-## This is the README for your extension "forest-forever"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Forest Forever Dark Theme (VS Code)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+[![Version](https://vsmarketplacebadge.apphb.com/version/)](https://aka.ms/)
+[![Downloads](https://img.shields.io/vscode-marketplace/)](https://aka.ms/)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+This is a theme for all of you nature lovers. This theme is inspired around the nature that surrounds us. From the various colors of the sky to the ground and the Earth all around us. Enjoy this dark inspired theme for your coding inspirations. Allow nature to inspire you and your code and take care of whatever project enlightens you.
+
+## Forest Forever
+Welcome Screen!
+![Welcome Screen](forest_forever_Welcome.png)
+CSS Look!
+![Forest Forever CSS](forest_forever_CSS.png)
+JS Look!
+![Forest Forever CSS](forest_forever_JS.png)
+# Installation
+
+1.  Install [Visual Studio Code](https://code.visualstudio.com/)
+2.  Launch Visual Studio Code
+3.  Choose **Extensions** from menu
+4.  Search for `forest forever`
+5.  Click **Install** to install it
+6.  Click **Reload** to reload the Code
+7.  From the menu bar click: Code > Preferences > Color Theme > **Forest Forever**
+
+## Other Information
+
+This is my first ever creating a theme so if you have concerns, please feel free to [file an issue](https://github.com/yoshimario/forest-forever-vstheme/issues)! If there is something I missed.
+
+Any relevant changes for each version will be documented in the changelog. Please look for updates and check the changelog before filing any issues, as they may have already been resolved.

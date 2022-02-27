@@ -1,14 +1,24 @@
 {
     "name": "forest-forever",
     "displayName": "forest_forever",
+    "type": "dark",
     "description": "A walk thru the forest together thru coding.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
-        "vscode": "^1.64.0"
+        "vscode": "^1.55.0"
     },
     "categories": [
         "Themes"
     ],
+    "author": {
+        "name": "Sean Kipinä"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/yoshimario/forest-forever-vstheme",
+    "keywords": [
+        "vs code forest forever"
+    ],
+    "icon": "logo.png",
     "contributes": {
         "themes": [
             {
@@ -17,5 +27,8 @@
                 "path": "./themes/Forest Forever-color-theme.json"
             }
         ]
+    },
+    "dependencies": {
+        "vsce": "^2.6.7"
     }
 }
