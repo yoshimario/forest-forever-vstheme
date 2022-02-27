@@ -10,9 +10,9 @@ This is a theme for all of you nature lovers. This theme is inspired around the 
 Welcome Screen!
 ![Welcome Screen](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_Welcome.png)
 CSS Look!
-![Forest Forever CSS](forest_forever_CSS.png)
+![Forest Forever CSS](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_CSS.png)
 JS Look!
-![Forest Forever CSS](forest_forever_JS.png)
+![Forest Forever JS](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_JS.png)
 # Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
