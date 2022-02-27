@@ -8,7 +8,7 @@ This is a theme for all of you nature lovers. This theme is inspired around the 
 
 ## Forest Forever
 Welcome Screen!
-![Welcome Screen](forest_forever_Welcome.png)
+![Welcome Screen](https://github.com/yoshimario/forest-forever-vstheme/blob/main/forest_forever_Welcome.png)
 CSS Look!
 ![Forest Forever CSS](forest_forever_CSS.png)
 JS Look!
